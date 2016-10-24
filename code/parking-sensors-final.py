@@ -11,9 +11,7 @@ GPIO.setmode(GPIO.BOARD)
 
 echo_pin=22
 trigger_pin=24
-
 BUZZER_pin=26
-
 LED1_pin=19 #GREEN
 LED2_pin=21 #YELLOW
 LED3_pin=23 #RED
